@@ -35,9 +35,9 @@ This project is a basic calculator created using HTML, CSS, and JavaScript. It p
 - `style.css`: The CSS file that styles the calculator.
 - `script.js`: The JavaScript file that adds functionality to the calculator.
 
-## Screenshots
+## Live
 
-![Calculator Screenshot](screenshot.png)
+https://abacus-cal.netlify.app/
 
 ## License
 
